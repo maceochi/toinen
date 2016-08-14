@@ -1,0 +1,1 @@
+Tämä on joku toinen tiedosto.
